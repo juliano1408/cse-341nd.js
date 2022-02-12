@@ -1,0 +1,15 @@
+{
+  "name": "section-01",
+  "version": "1.0.0",
+  "description": "CSE 341 Section 01",
+  "main": "first-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon my-first-server.js"
+  },
+  "author": "Juliano Nascimento",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
